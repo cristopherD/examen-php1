@@ -11,3 +11,4 @@ de error en caso contrario.
 • Qué existe un registro con dicho valor, mostrando un mensaje de error diferente si no existe.
 Objetivo del programa: Realizadas las comprobaciones, el programa mostrará los 5 primeros
 campos de la tabla.
+------ME DEVUELVE TODOS LOS CAMPOS---
